@@ -1,4 +1,5 @@
 # Assignment-10.1
+# The purpose of this script is to impliment a class as a single card and fill a deck of cards
 
 from ntpath import join
 import random
